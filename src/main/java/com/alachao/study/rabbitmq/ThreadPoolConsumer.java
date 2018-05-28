@@ -1,6 +1,7 @@
 package com.alachao.study.rabbitmq;
 
 import com.alachao.study.rabbitmq.common.Constants;
+import com.alachao.study.rabbitmq.common.DetailRes;
 import lombok.extern.slf4j.Slf4j;
 
 import java.io.IOException;
